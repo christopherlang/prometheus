@@ -49,3 +49,10 @@ MANIFEST
 
 # Per-project virtualenvs
 .venv*/
+
+# Rando stuff
+.ipynb_checkpoints/*
+.coveragerc
+
+# For now ignore data directory
+data/*

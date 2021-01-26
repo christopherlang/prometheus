@@ -1,0 +1,21 @@
+general:
+  test_principal: 1000
+  currency: USD
+
+keys:
+
+  robinhood:
+    key: D3rAMebOeI4YFQeGH8p3Zc!Cw4KK8UazJKAa^KuscrQq1!*CwUVE^BrLUb
+    uid: chlang206@gmail.com
+
+  finnhub:
+    use_sandbox: False
+    key: bvugffv48v6pkq83lrcg
+    key_sandbox: sandbox_bvugffv48v6pkq83lrd0
+
+  alphavantage:
+    key: VX19MAP88Q0EFAO0
+
+  investopedia:
+    key: WwVqaS#!eATvw9HQv7%m7D1ev!Xvv91nu75tj#
+    uid: christopher.lang

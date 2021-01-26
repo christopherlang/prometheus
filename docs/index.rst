@@ -1,8 +1,8 @@
 ==========
-Prometheus
+prometheus
 ==========
 
-This is the documentation of **Prometheus**.
+This is the documentation of **prometheus**.
 
 .. note::
 
